@@ -18,7 +18,7 @@
 <br>
 <h2>📊 Github Stats</h2>
 
-![Pranil's github stats](https://github-readme-stats.vercel.app/api?username=arjyo851&theme=onedark)
+![Pranil's github stats](https://github-readme-stats.vercel.app/api?username=Prani-l&theme=onedark)
 
 <br>
 
